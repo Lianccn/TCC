@@ -56,18 +56,10 @@ body {
   button[type=submit]:hover {
     background-color: #006080;
   }
-  .esqueci{
-    text-decoration: none;
-    color: #008CBA;
-    width: 100%;
-    margin: 24.7px;
-  }
-  .criarconta{
-    text-decoration: none;
-    color: #008CBA;
-    width: 100%;
-  }
-  .esqueci:hover, .criarconta:hover{
-    text-decoration: underline;
-    color: #006080;
+
+  .logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
