@@ -117,8 +117,8 @@ aside.site{
 }
 
 .icon{
-    width: 4%;
-    
+    width: 3%;
+    display: inline;
 }
 
 .logo{
